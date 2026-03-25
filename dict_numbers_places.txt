@@ -1,0 +1,53 @@
+original_plasmid_box;new_name;storage_unit_number
+DB 09;Plasmid DB 09;61
+Plasmid DB 01;Plasmid DB 01;52
+Plasmid DB 02;Plasmid DB 02;53
+Plasmid DB 03;Plasmid DB 03;54
+Plasmid DB 04;Plasmid DB 04;55
+Plasmid DB 05;Plasmid DB 05;56
+Plasmid DB 06;Plasmid DB 06;58
+Plasmid DB 07;Plasmid DB 07;59
+Plasmid DB 08;Plasmid DB 08;60
+Plasmid DB 09;Plasmid DB 09;61
+Plasmid DB 10;Plasmid DB 10;62
+Plasmid DB 11;Plasmid DB 11;63
+Plasmid DB 12;Plasmid DB 12;64
+Plasmid DB 13;Plasmid DB 13;65
+Plasmid DB 14;Plasmid DB 14;66
+Plasmid DB 15;Plasmid DB 15;74
+Plasmid DB 16;Plasmid DB 16;67
+Plasmid DB 17;Plasmid DB 17;68
+Plasmid DB 18;Plasmid DB 18;69
+Plasmid DB 19;Plasmid DB 19;70
+Plasmid DB 20;Plasmid DB 20;71
+Plasmid DB 21;Plasmid DB 21;72
+Plasmid DB 22;Plasmid DB 22;73
+Plasmid DB 23;Plasmid DB 23;88
+Plasmid DB24;Plasmid DB 24;81
+Plasmid DB 25;Plasmid DB 25;89
+Plasmid DB 26;Plasmid DB 26;90
+Plasmid DB 27;Plasmid DB 27;91
+Plasmid DB 28;Plasmid DB 28;77
+Plasmid DB29;Plasmid DB 29;82
+Plasmid DB30;Plasmid DB 30;83
+Plasmid DB31;Plasmid DB 31;84
+Plasmid DB 32;Plasmid DB 32;78
+Plasmid DB 33;Plasmid DB 33;92
+Plasmid DB 34;Plasmid DB 34;79
+Plasmid DB 35;Plasmid DB 35;80
+Plasmid DB 36;Plasmid DB 36;93
+Plasmid DB37;Plasmid DB 37;94
+Plasmid DB38;Plasmid DB 38;95
+Plasmid DB39;Plasmid DB 39;96
+Plasmid DB40;Plasmid DB 40;97
+Plasmid DB41;Plasmid DB 41;98
+Plasmid DB42;Plasmid DB 42;99
+Plasmid DB43;Plasmid DB 43;100
+Plasmid DB44;Plasmid DB 44;101
+Plasmid DB45;Plasmid DB 45;102
+Plasmid DB46;Plasmid DB 46;103
+Plasmid DB47;Plasmid DB 47;104
+Plasmid DB48;Plasmid DB 48;105
+Plasmid DB49;Plasmid DB 49;106
+Plasmid DB50;Plasmid DB 50;107
+Plasmid DB51;Plasmid DB 51;109
