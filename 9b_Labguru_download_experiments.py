@@ -7,33 +7,6 @@ import os
 download_path="../ressourcen/experiment_attachments_5/"
 files_there = os.listdir(download_path)
 
-#ID /biocollections/archaea/5701 not found
-#ID /biocollections/archaea/5711 not found
-#ID /biocollections/archaea/5721 not found
-#ID /biocollections/archaea/5731 not found
-#ID /biocollections/archaea/5741 not found
-#ID /biocollections/plasmids/26781 not found
-#ID /biocollections/plasmids/26521 not found
-#ID /biocollections/plasmids/26511 not found
-#ID /biocollections/plasmids/5471 not found
-#ID /biocollections/primers/3951 not found
-#ID /biocollections/primers/3961 not found
-#ID /biocollections/primers/4001 not found
-#ID /biocollections/primers/4011 not found
-#ID /biocollections/primers/4741 not found
-#ID /biocollections/primers/4751 not found
-#ID /biocollections/primers/4021 not found
-#ID /biocollections/primers/4031 not found
-#ID /biocollections/primers/4591 not found
-#ID /biocollections/primers/4601 not found
-#ID /biocollections/primers/4591 not found
-#ID /biocollections/primers/4601 not found
-#ID /biocollections/plasmids/5471 not found
-#ID /biocollections/primers/3951 not found
-#ID /biocollections/primers/3961 not found
-
-
-
 list_of_all_attachments = []
 for f in files_there:
 	list_of_all_attachments.append(download_path + f)
